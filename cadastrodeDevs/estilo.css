@@ -1,0 +1,100 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+html{
+    background-image: url(background-with-different-green-shapes_23-2148358648.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%
+    /*como centralizar imagem ? mesmo quando diminuimos a tela . . . */
+}
+.container{
+    text-align: center;
+    margin: 3%;
+}
+.header{
+    padding: 1%;
+}
+.header h1{
+    font-size: 50px;
+}
+.header p{
+    font-size: 20px;
+}
+form{
+    font-size: 20px;
+    margin-top: 3%;
+}
+form input{
+    font-size: 18px;
+    outline: none;
+}
+form textarea{
+    outline: none;
+}
+fieldset{
+    border: none;
+}
+.nome, .email{
+    margin: 1%;
+}
+.nome label, .email label{
+    font-weight: bolder;
+    margin-right: 1%;
+}
+.nome input, .email input{
+    height: 25px;
+    width: 200px;
+}
+.email input{
+    width: 300px;
+}
+.programmer, .tecnologias{
+    padding: 1%;
+}
+.programmer p, .programmer input, .programmer label{
+    margin-bottom: 1%;
+}
+.programmer label{
+    padding-right: 15px;
+}
+.programmer input{
+    margin-right: 5px;
+}
+.programmer p, .tecnologias p{
+    font-weight: bold;
+}
+.programmer select{
+    font-size: 14px;
+    outline: none;
+}
+.tecnologias p, .tecnologias input, .tecnologias label{
+    margin-bottom: 1%;
+}
+.tecnologias label{
+    padding-right: 15px;
+}
+.tecnologias input{
+    margin-right: 5px;
+}
+.tecnologias textarea{
+    margin-top: 1%;
+}
+.msgdev{
+    font-weight: bold;
+    margin: 2%;
+}
+.btn-dev{
+    border: 1px solid black;
+    border-radius: 15px;
+    background: salmon;
+    padding: 15px;
+    margin-bottom: 1%;
+    font-weight: bolder;
+}
+.btn-dev:hover{
+    background: rgba(250, 128, 114, 0.8);
+    font-weight: lighter;
+    border: transparent;
+}

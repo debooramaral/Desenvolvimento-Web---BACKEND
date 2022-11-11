@@ -1,0 +1,58 @@
+label{
+    margin: 1%;
+}
+
+table{
+    border: 1px solid;
+    text-align: center;
+}
+table tr{
+    background: rgb(0, 195, 255);
+    border-collapse: separate;
+    border-spacing: 20px;
+    font-size: bold;
+    font-size: 20px;
+}
+.cadastre{
+    text-decoration: none;
+    padding: 5px;
+    color: ghostwhite;
+    background-color: deeppink;
+    border-radius: 5px;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 15px;
+}
+.cadastre:hover{
+    color: black;
+}
+.titulo{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+table td{
+    border-collapse: separate;
+    border-spacing: 20px;
+    padding: 5px;
+    background-color: darkorange;
+    color: black;
+    font-weight: lighter;
+    font-size: 20px;
+}
+.editar, .excluir{
+    text-decoration: none;
+    color: ghostwhite;
+    background-color: none;
+}
+.editar:hover, .excluir:hover{
+    color: black;
+}
+.atualizar{
+    border: 1px solid;
+    border-radius: 5px;
+    border: transparent;
+    font-size: 15px;
+    font-weight: lighter;
+    color: chartreuse;
+    background-color: black;
+
+}

@@ -1,0 +1,13 @@
+Listagem de Usuários - de forma simples, apenas com comandos do PHP
+
+// $sql = $pdo->query('SELECT * FROM usuario');
+// $dados = $sql->  (pdo::FETCH_ASSOC);
+// echo'<pre>';
+// print_r($dados);
+
+01 - https://www.youtube.com/watch?v=R19QXNzY504
+02 - https://www.youtube.com/watch?v=bQvwAmfzuTI
+03 - https://www.youtube.com/watch?v=ksXoWJIZv0Y
+04 - https://www.youtube.com/watch?v=etN6J0ILQ-U
+05 - https://www.youtube.com/watch?v=5cdWz43La8w&t=812s
+06 - https://www.youtube.com/watch?v=5rC9mmbGpYE
